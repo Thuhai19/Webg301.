@@ -1,0 +1,2 @@
+# Apache (XAMPP). Chặn liệt kê thư mục.
+Options -Indexes
